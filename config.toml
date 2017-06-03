@@ -1,0 +1,6 @@
+baseURL = "https://keiichiroy.github.io/"
+languageCode = "ja"
+title = "My New Hugo Site"
+publishDir = "public"
+theme = "hugo-bootstrap-premium"
+rssuri = "/feed.xml"
